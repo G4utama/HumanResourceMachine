@@ -22,4 +22,5 @@ ld  file_name.o -o file_name
 | 5 | Coffee Time | &ndash; | &ndash; | &ndash; |
 | 6 | Rainy Summer | For each two things in the INBOX, add them together, and put the result in the OUTBOX. | 6 | 24 |
 | 7 | Zero Exterminator | Send all things that ARE NOT ZERO to the OUTBOX. | 4 | 23 |
+| 8 | TriplerRoom | For each thing in the INBOX, TRIPLE it. And OUTBOX the result.  | 6 | 24 |
 |  |  |  |  |  |
