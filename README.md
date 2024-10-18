@@ -27,4 +27,10 @@ ld  file_name.o -o file_name
 | 10 | [Octoplier Suite](10-OctoplierSuite/OctoplierSuite.asm) | For each thing in the INBOX, multiply it by 8, and put the result in the OUTBOX. | 9 | 36 |
 | 11 | [Sub Hallway](11-SubHallway/SubHallway.asm) | For each two things in the INBOX, first subtract the 1st from the 2nd and put the result in the OUTBOX. AND THEN, subtract the 2nd from the 1st and put the result in the OUTBOX. Repeat. | 10 | 40 |
 | 12 | [Tetracontiplier](12-Tetracontiplier/Tetracontiplier.asm) | For each thing in the INBOX, multiply it by 40, and put the result in the OUTBOX. | 14 | 56 |
+| 13 | [Equalization Room](13-EqualizationRoom/EqualizationRoom.asm) | Get two things from the INBOX. If they are EQUAL, put ONE of them in the OUTBOX. Discard non-equal pairs. Repeat. | 9 | 27 |
+| 14 | [Maximization Room](14-MaximizationRoom/MaximizationRoom.asm) | Grab TWO things from the INBOX, and put only the BIGGER of the two in the OUTBOX. If they are equal, just pick either one. Repeat. | 10 | 34 |
+| 15 | Employee Morale Insertion | &ndash; | &ndash; | &ndash; |
+| 16 | [Absolute Positivity](16-AbsolutePositivity/AbsolutePositivity.asm) | Send each thing from the INBOX to the OUTBOX. BUT, if a number is negative, first remove its negative sign. | 8 | 36 |
+| 17 | [Exclusive Lounge](17-ExclusiveLounge/ExclusiveLounge.asm) | For each TWO things in the INBOX: Send a 0 to the OUTBOX if they have the same sign. (Both positive or both negative.) Send a 1 to the OUTBOX if their signs are different. Repeat until the INBOX is empty. | 12 | 28 |
+| 18 | Sabbatical Beach Paradise | &ndash; | &ndash; | &ndash; |
 |  |  |  |  |  |
